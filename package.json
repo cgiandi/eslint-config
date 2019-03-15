@@ -1,5 +1,5 @@
 {
-  "name": "@cgiandi/eslint-config",
+  "name": "eslint-config-cgiandi",
   "version": "0.0.1",
   "description": "ESLint Configs",
   "author": "cg imagine+invent <dev@cgiandi.com>",
