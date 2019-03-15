@@ -1,6 +1,6 @@
 module.exports = {
   parser: 'babel-eslint',
-  extends: ['eslint:recommended', 'airbnb-base'].map(require.resolve),
+  extends: ['eslint:recommended', 'airbnb-base'],
   plugins: ['import', 'node', 'promise'],
   globals: {
     require: true,

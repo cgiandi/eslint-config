@@ -1,4 +1,4 @@
 module.exports = {
-  extends: ['plugin:flowtype/recommended'].map(require.resolve),
+  extends: ['plugin:flowtype/recommended'],
   plugins: ['flowtype'],
 };

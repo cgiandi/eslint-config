@@ -1,4 +1,4 @@
 module.exports = {
-  extends: ['airbnb'].map(require.resolve),
+  extends: ['airbnb'],
   plugins: ['react', 'react-native', 'jsx-a11y'],
 };
