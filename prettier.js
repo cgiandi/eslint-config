@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['prettier', 'plugin:prettier/recommended'],
+  extends: ['prettier', 'plugin:prettier/recommended'].map(require.resolve),
   rules: {
     'prettier/prettier': [
       'error',

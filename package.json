@@ -8,7 +8,9 @@
   "files": [
     "index.js",
     "prettier.js",
-    "flow.js"
+    "flow.js",
+    "react.js",
+    "react-native.js"
   ],
   "homepage": "https://github.com/cgiandi/eslint-config#readme",
   "repository": {
@@ -32,6 +34,12 @@
     "eslint-plugin-react-native": "^3.6.0"
   },
   "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.2",
+    "flow-bin": "^0.95.1",
+    "prettier": "^1.16.4"
+  },
+  "peerDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.15.2",
     "flow-bin": "^0.95.1",
