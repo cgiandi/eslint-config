@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "prettier.js"
   ],
   "homepage": "https://github.com/cgiandi/eslint-config#readme",
   "repository": {
